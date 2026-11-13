@@ -1,0 +1,3 @@
+pyyaml
+# Only needed for `--agent claude` (Python 3.10+):
+# anthropic
